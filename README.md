@@ -1,4 +1,4 @@
-# 🏦 Bank Transaction Fault Analysis
+# 🏦 Bank Transaction Fraud Analysis
 
 ### Business Task
 Analyse bank transaction data to identify suspicious and fraudulent activities, understand customer spending behaviour across different segments, and provide actionable insights to improve fraud detection and operational efficiency.
